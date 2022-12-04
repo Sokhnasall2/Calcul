@@ -1,0 +1,38 @@
+
+body
+{
+background-image: url("d.jpeg");
+background-color:darken;
+background-size: cover;
+background-position: center;
+box-sizing: border-box;
+}
+
+
+
+.Affichage{
+    width: 35%;
+}
+
+.contener0{
+width: 40%;
+margin-top: 20px;
+margin-left: 20px;
+box-sizing: border-box;
+background-color: rgb(5, 104, 104);
+display: flex;
+justify-content: space-around;
+padding: 16px 30px;
+z-index: 1;  
+font : bold 11px Batang, arial, serif;
+list-style-type : none;
+padding-bottom : 24px; 
+border-bottom : 1px solid #194c66;
+height: 550px;
+text-align: justify;
+color: rgb(1, 15, 43);
+line-height: 1.6;
+box-shadow: 0 5px 10px black;
+position: center;
+background-blend-mode: darken;
+}
